@@ -1,0 +1,42 @@
+div {
+  width: 1200px;
+  padding: 20px;
+  border: 5px solid black;
+}
+
+p {
+  margin-right: 650px;
+  background-color: yellow;
+}
+
+h1.heading1 {
+  font-size: 30px;
+  text-align: center;
+  background: greenyellow;
+}
+
+h1.heading2 {
+  font-size: 30px;
+  text-align: center;
+  background: green;
+}
+
+h1.heading3 {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#restaurants {
+  margin-right: 800px;
+  background-color: greenyellow;
+}
+
+#kratom {
+  margin-right: 810px;
+  background-color: green;
+}
